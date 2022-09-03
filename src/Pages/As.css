@@ -1,0 +1,79 @@
+.Aircraftstatus{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    padding:1rem;
+    height:100vh;
+    align-items:center;
+    /* justify-content: center; */
+    font-size: 3rem;
+    
+}
+#head{
+    font-size:1rem;
+    display: flex;
+    margin-top:5px;
+    position:relative;
+}
+table{
+    margin-top:3px;
+    border-collapse:collapse;
+    margin-left:45px;
+    
+}
+th,td{
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding:12px;
+    font-size:32px;
+
+}
+th{
+    background-color: rgb(117,201,250);
+}
+td{
+    background-color: rgb(205,235,253);
+}
+.bu .butt{
+        font-size: 19px;
+    padding: 12px 28px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin:12px;
+}
+.butt:hover {
+    background-color: grey; /* Green */
+    color: white;
+    cursor:pointer;
+  }
+.button .bt1, .bt2, .bt3{
+    font-size: 19px;
+    padding: 12px 28px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin:12px;
+  
+}
+.bt1, .bt2, .bt3 {
+    transition-duration: 0.4s;
+  }
+  
+.bt1:hover {
+    background-color: grey; /* Green */
+    color: white;
+    cursor:pointer;
+  }
+.bt2:hover {
+    background-color: grey; /* Green */
+    color: white;
+    cursor:pointer;
+  }
+.bt3:hover {
+    background-color: grey; /* Green */
+    color: white;
+    cursor:pointer;
+  }

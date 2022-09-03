@@ -1,0 +1,20 @@
+[
+    {
+        "id" :1,
+        "2022-2023" : "AFT Alloted",
+        "Total AFT" :1450,
+        "AFT day" :1050,
+        "AFT night":400
+
+    },
+    {
+        "id" :2,
+        "2022-2023" : "AFT Completed",
+        "Total AFT" :900,
+        "AFT day" :750,
+        "AFT night":150
+
+    }
+
+
+]

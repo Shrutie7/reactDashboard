@@ -1,0 +1,30 @@
+[
+    {
+        "id" :1,
+        "Frame No" : 221,
+        "Type of Aircraft":"Dornier para",
+        "Equipment":"ELTA V2 AES 212",
+        "Status":"NA",
+        "S/U":"S",
+        "Remarks":"-"
+    },
+    {
+        "id" :2,
+        "Frame No" : 222,
+        "Type of Aircraft":"Dornier para",
+        "Equipment":"ELTA V2 AES 212",
+        "Status":"NA",
+        "S/U":"U",
+        "Remarks":"Radar change in progress"
+    },
+    {
+        "id" :3,
+        "Frame No" : 223,
+        "Type of Aircraft":"Dornier para",
+        "Equipment":"ELTA V3 AES 212",
+        "Status":"NA",
+        "S/U":"S",
+        "Remarks":"-"
+    }
+
+]
